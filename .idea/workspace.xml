@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1191500-251b-40de-a361-c6ccb0d6828d" name="Default Changelist" comment="" />
+    <list default="true" id="d1191500-251b-40de-a361-c6ccb0d6828d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/fabric/indigo-renderer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/index.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

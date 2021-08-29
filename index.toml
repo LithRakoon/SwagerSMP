@@ -113,3 +113,8 @@ metafile = true
 [[files]]
 file = "packwiz"
 hash = "117081fb4a1f92ca8ff159c69a16d433f54fd9a954530cbf344a38ea773aac8b"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "e0e6c3240c4e821727b0468d85a3eafe0e0048b1368cb768a189a887fba1153d"
+metafile = true
