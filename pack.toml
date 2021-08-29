@@ -1,11 +1,11 @@
 name = "SwagerSMP"
 author = "Lith"
-version = "1"
+version = "0.2.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fecb52ebda6436c32c84cbaab93d99289076f1b7b07d639bb2272da0e4ee6162"
+hash = "93dcc9227957973f176a72a53207fa65ce749b0d3d6cca710d39db6b4f5f84c7"
 
 [versions]
 fabric = "0.11.6"
