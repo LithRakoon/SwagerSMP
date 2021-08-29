@@ -1,6 +1,6 @@
 name = "SwagerSMP"
 author = "Lith"
-version = "0.3.1"
+version = "1.0"
 
 [index]
 file = "index.toml"
