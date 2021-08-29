@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1191500-251b-40de-a361-c6ccb0d6828d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/lambdynlights.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/lambdynlights.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
