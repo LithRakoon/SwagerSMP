@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1191500-251b-40de-a361-c6ccb0d6828d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config-files/Adorn.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/decorative.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/dynamicfps.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/enhanced_bes.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/ferritecore.mixin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/indium-renderer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/inspecio.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/iris.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/lambdabettergrass.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/lambdynlights.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/libcd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/libgui.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/lithium.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/midnightlib.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/modmenu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/okzoomer.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/rrp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/sodium-mixins.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-files/sodium-options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/Adorn.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/decorative.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/dynamicfps.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/enhanced_bes.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/ferritecore.mixin.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/indium-renderer.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/inspecio.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/iris.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/lambdabettergrass.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/lambdynlights.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/libcd.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/libgui.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/lithium.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/midnightlib.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/modmenu.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/okzoomer.json5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/rrp.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sodium-mixins.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/sodium-options.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.toml" beforeDir="false" afterPath="$PROJECT_DIR$/index.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pack.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pack.toml" afterDir="false" />
-    </list>
+    <list default="true" id="d1191500-251b-40de-a361-c6ccb0d6828d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
