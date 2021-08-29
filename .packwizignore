@@ -1,5 +1,6 @@
 .git/**
 .gitattributes
 .gitignore
-.idea
+.idea/**
 README.md
+index.html
