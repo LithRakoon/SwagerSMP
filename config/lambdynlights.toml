@@ -1,8 +1,0 @@
-name = "lambdynamiclights"
-filename = "lambdynlights.toml"
-side = "both"
-
-[download]
-url = "https://leathium.github.io/SwagerSMP/config-files/lambdynlights.toml"
-hash-format = "sha512"
-hash = "4c2ebab9eed9bc3d9061051265d4da3ee9d89e645baedbc0ced1b9a641633b4c7b37765c321062f41a6686807198d56c3061c21444449ed0cd9678398d5addb4"
