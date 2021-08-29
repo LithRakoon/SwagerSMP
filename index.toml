@@ -106,5 +106,10 @@ hash = "11d4992fa88157230b939c1b5b3bddc8b7247d02fd9732d2df0051d497e2dc9c"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
+metafile = true
+
+[[files]]
 file = "packwiz"
 hash = "117081fb4a1f92ca8ff159c69a16d433f54fd9a954530cbf344a38ea773aac8b"
