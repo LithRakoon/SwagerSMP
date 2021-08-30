@@ -6,13 +6,33 @@ hash = "ebe6078e216ace5dbad74f32fe3e14c467603d9b2e151b02e32247c07807c5cb"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+metafile = true
+
+[[files]]
 file = "mods/auto-config-updated-api.toml"
 hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.toml"
+hash = "1afa917d3c7008ddac3ee45d64647d9b479c1f9c1f7a604b30adf63fee542c0c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "2c79195ea747b3456c057ae3fa24b949bc261c671fb277c20dfd4cddc184e7cb"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
 metafile = true
 
 [[files]]
@@ -48,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/hydrogen.toml"
 hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "a2c606c79213033f7d236056edf1fc6b96c44c3043a826a580faae7db3717f90"
 metafile = true
 
 [[files]]
@@ -103,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/recipe-cache.toml"
 hash = "11d4992fa88157230b939c1b5b3bddc8b7247d02fd9732d2df0051d497e2dc9c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+metafile = true
+
+[[files]]
+file = "mods/semitranslucency.toml"
+hash = "ee0352f3fb73453dac15884bd3a82575445f561d3a297f9a7bd8969cea90d1dc"
 metafile = true
 
 [[files]]
