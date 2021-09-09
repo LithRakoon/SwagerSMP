@@ -16,8 +16,18 @@ hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
 metafile = true
 
 [[files]]
+file = "mods/bobby.toml"
+hash = "b991305d41a724191ca442c7af916b2203ad7385ce0a90b46ed1f0f39af490ff"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.toml"
 hash = "2453744a906d1d68783225da7f8a77fa973b5937449a3d8e0d20534dd28ce87c"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
 metafile = true
 
 [[files]]
@@ -91,6 +101,11 @@ hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
 metafile = true
@@ -138,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/semitranslucency.toml"
 hash = "ee0352f3fb73453dac15884bd3a82575445f561d3a297f9a7bd8969cea90d1dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
 metafile = true
 
 [[files]]
