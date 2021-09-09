@@ -159,8 +159,3 @@ metafile = true
 file = "mods/sodium-extra.toml"
 hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
 metafile = true
-
-[[files]]
-file = "mods/starlight.toml"
-hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
-metafile = true
