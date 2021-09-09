@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "ebe6078e216ace5dbad74f32fe3e14c467603d9b2e151b02e32247c07807c5cb"
+hash = "e2091dd8985dfcab52a04894920f51ac55f0d07b257d415fa38c93eb285aba89"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "1afa917d3c7008ddac3ee45d64647d9b479c1f9c1f7a604b30adf63fee542c0c"
+hash = "2453744a906d1d68783225da7f8a77fa973b5937449a3d8e0d20534dd28ce87c"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "baa5f09833d49dc154e01e76be9515c4e1ae7757a2d78415eeb220b34a97db93"
+hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "a2c606c79213033f7d236056edf1fc6b96c44c3043a826a580faae7db3717f90"
+hash = "d71bdf15943d98ece71fa8d2ca9d9bb3e3b743dd25c5dbb0d750aaa7a8e0f393"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "13b350b5401d7e5c5235e2ca3bb537cef3c908a27298d79dc822302019b34831"
+hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
 metafile = true
 
 [[files]]

@@ -6,3 +6,8 @@ README.md
 index.html
 .gitattributes
 packwiz
+.modpack/**
+idea/**
+modpack/**
+images/**
+.images/**
