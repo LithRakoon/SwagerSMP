@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Modpack/SwagerSMP.zip"
+hash = "c80703b836409159f9bc67824d1fc98bd288b86acde24f0148f536252b7586b3"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "e2091dd8985dfcab52a04894920f51ac55f0d07b257d415fa38c93eb285aba89"
 metafile = true
@@ -22,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "2453744a906d1d68783225da7f8a77fa973b5937449a3d8e0d20534dd28ce87c"
+hash = "4be6d3d0a97b67dedccd79f759f28fa02bf4e6f7671773c313f0de100e6eda36"
 metafile = true
 
 [[files]]
@@ -87,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "d71bdf15943d98ece71fa8d2ca9d9bb3e3b743dd25c5dbb0d750aaa7a8e0f393"
+hash = "748a1742db0cc9e5a2bc8dd5827998d0dfc050863ebca134bcee3cf2f4aef346"
 metafile = true
 
 [[files]]

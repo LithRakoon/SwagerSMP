@@ -1,14 +1,14 @@
 name = "Illuminations 🔥"
-filename = "illuminations-1.7.1.jar"
+filename = "illuminations-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3454/742/illuminations-1.7.1.jar"
+url = "https://edge.forgecdn.net/files/3457/15/illuminations-1.7.2.jar"
 hash-format = "murmur2"
-hash = "3032131610"
+hash = "1858382588"
 
 [update]
 [update.curseforge]
-file-id = 3454742
+file-id = 3457015
 project-id = 292908
 release-channel = "beta"
