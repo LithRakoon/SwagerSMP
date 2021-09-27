@@ -6,12 +6,12 @@ hash = "c80703b836409159f9bc67824d1fc98bd288b86acde24f0148f536252b7586b3"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "e2091dd8985dfcab52a04894920f51ac55f0d07b257d415fa38c93eb285aba89"
+hash = "5ee7898adeffcb69417b730487b895be59fb8977936d7436d1ea129413d865b8"
 metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+hash = "8afc72d1f763249c76208e1856ee6a9c6d86e916fc3cc429936fc64f4ead52e8"
 metafile = true
 
 [[files]]
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.toml"
-hash = "4be6d3d0a97b67dedccd79f759f28fa02bf4e6f7671773c313f0de100e6eda36"
+hash = "e3399090ebadd4ed5c6353533544a479ae532a1d12f5c6a73edfce107aec3a83"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "2c79195ea747b3456c057ae3fa24b949bc261c671fb277c20dfd4cddc184e7cb"
+hash = "8d1357059bc8c96fb07fbdf31555a75998f9dc9bdebc9cbcf9196c834158a1d7"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "148a62eb8129c44bd2b1c4df997e1d2b1007e44f78fed26aebea603240551620"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
 metafile = true
 
 [[files]]
