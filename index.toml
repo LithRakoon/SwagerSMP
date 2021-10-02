@@ -10,6 +10,11 @@ hash = "5ee7898adeffcb69417b730487b895be59fb8977936d7436d1ea129413d865b8"
 metafile = true
 
 [[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
 file = "mods/architectury-fabric.toml"
 hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
 metafile = true
@@ -147,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.toml"
 hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.toml"
+hash = "02e606edf41e57743ea118af2b2cc2f46f38d7abe806bbd41722f784c12cabbb"
 metafile = true
 
 [[files]]
