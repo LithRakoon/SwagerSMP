@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
+hash = "8db6db22ea6ebfecd19b82e2b58ab48c4c2d0ffc0069370864cc5e1d23d28413"
 metafile = true
 
 [[files]]
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "748a1742db0cc9e5a2bc8dd5827998d0dfc050863ebca134bcee3cf2f4aef346"
+hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
@@ -171,12 +171,12 @@ metafile = true
 
 [[files]]
 file = "mods/recipe-cache.toml"
-hash = "11d4992fa88157230b939c1b5b3bddc8b7247d02fd9732d2df0051d497e2dc9c"
+hash = "f9c509d284f27cfcd06c3c7473872950eba42c539f1a516a936641419e914775"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+hash = "3556ce0056005dc9bb88c32e045528dda63d0291555f2d6f3a84899b9c8dc854"
 metafile = true
 
 [[files]]
@@ -186,10 +186,10 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "d100d9d3b8e8a2f157e34910152ca3ae5cffccbd544a9deae6301dd44b640266"
+hash = "a299421cdf8c7fca13dc7153f30c855539973930a2d42d8529494e52ba843d3e"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "994eda116254db865384ca9ebb0c4e9f459edbac67483b2f1582955618a5c6dd"
+hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
 metafile = true

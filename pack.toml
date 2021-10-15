@@ -1,11 +1,12 @@
 name = "SwagerSMP"
 author = "Lith"
 version = "1.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "58b2555e089b36a0f4928075165bf10914fbc249da2cc72be8befbd88647f7d5"
+hash = "810c95ccc34c88a01a80c659644a1be107c70c416d2c37406e2e26816ec94322"
 
 [versions]
 fabric = "0.11.6"
