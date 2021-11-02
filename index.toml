@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
+hash = "27cbbc3381dc442d0806faf0ea89f8ecf732c518332d265f365e0cb88d5e5058"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "b5b81d048e58776665818a72a1b841105f3db5069211a95fced944b16d515734"
+hash = "8b05f442669d8aa23b5560fe5bea292df1d22ef5bdce365db16188b4574aec9e"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "f0b36073cc926d4045772785ebb45b19175904135441d49a748ac7b3869483d2"
+hash = "fbd95b648d509e8e1c81870bbc39ad68a15cf3b9c2b7821ec4bf4d554f163cfd"
 metafile = true
 
 [[files]]
