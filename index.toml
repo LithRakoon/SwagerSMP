@@ -160,11 +160,6 @@ hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta.toml"
-hash = "02e606edf41e57743ea118af2b2cc2f46f38d7abe806bbd41722f784c12cabbb"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
 metafile = true
