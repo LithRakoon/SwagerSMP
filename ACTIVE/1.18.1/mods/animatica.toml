@@ -1,0 +1,13 @@
+name = "Animatica"
+filename = "animatica-0.2+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.2+1.18/animatica-0.2+1.18.jar"
+hash-format = "sha512"
+hash = "3fbab72ae07f2db63ad216751b026dde9301bc7c9f37d308ae7021ca3faa44e9e5cd9e287f453ecf36f8dc1dcb9a58d0f05ced108331b0490dacc93f30ea8a7a"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"
+version = "u8LKZ5Ko"

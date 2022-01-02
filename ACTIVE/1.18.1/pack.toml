@@ -1,0 +1,16 @@
+name = "SwagerSMP 1.18"
+author = "Lith"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6a0fbb3c9a1d1713d720cc4b5b21b8b28bfb2b7ab580b52ad960a745aa7f0be7"
+
+[versions]
+fabric = "0.12.12"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18"]

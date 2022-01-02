@@ -1,0 +1,195 @@
+hash-format = "sha256"
+
+[[files]]
+file = "Modpack/SwagerSMP.zip"
+hash = "c80703b836409159f9bc67824d1fc98bd288b86acde24f0148f536252b7586b3"
+
+[[files]]
+file = "mods/adorn.toml"
+hash = "10a7bfa535689e2bb5269b8abb230879c30905a774080c2d1a07baed93b38f04"
+metafile = true
+
+[[files]]
+file = "mods/animatica.toml"
+hash = "0f832605c4764af1bf759fd26fb11bbe23b9eb3580f75a8999d5431a0ea98738"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
+metafile = true
+
+[[files]]
+file = "mods/auto-config-updated-api.toml"
+hash = "2b3b8bf50f99f9c6f649ff8e93ae4119bd3bb4f404ffc9c33000e32b9fe4a774"
+metafile = true
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "b991305d41a724191ca442c7af916b2203ad7385ce0a90b46ed1f0f39af490ff"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.toml"
+hash = "de7909b64bb66c887516f538e64decc7a52c29531ab6bb01f53eb2ec3557a773"
+metafile = true
+
+[[files]]
+file = "mods/clear-skies.toml"
+hash = "5717ab344e0fdeff258e2c3fa6a1421412b7bd70c32d224b4bedbde266e15de0"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "94c221982b03971e906ac09835fae62e95acc7341aaf549cec289ae9f28f15ca"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.toml"
+hash = "5c8502e3dccf0625851e37ea3de13514e2ae439d8420f0b4d4792949dc62aa8f"
+metafile = true
+
+[[files]]
+file = "mods/continuity.toml"
+hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.toml"
+hash = "4b8a585747201c7923b1d027cc06460fdfd30bb5b36852ef67705680484e9482"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models-cem.toml"
+hash = "993aebad8c508712972999680cb2356bd3e435602535214f81ad2f2d8448fc8d"
+metafile = true
+
+[[files]]
+file = "mods/decorative.toml"
+hash = "d29c3c7ae2e6587ccf6bf17f2501e8d4ca317b9531c4c8e6fd60bc357a070589"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "31ac7e90238cee7ee04c0442ab8a3c2a8cf40f298cafb3f31118cbb36b2c4e4b"
+metafile = true
+
+[[files]]
+file = "mods/ebe.toml"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "27cbbc3381dc442d0806faf0ea89f8ecf732c518332d265f365e0cb88d5e5058"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "f946c365b017cdaa064e255a5a81c1665f3ac9526fd1bfa7eaf6c20e14994027"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.toml"
+hash = "ab3bac47276ff32079e8fefd264b09f82f4141c05a56fa009595210683194980"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.toml"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "29264512e2f26c27c27bb171fda657b2a1756db9186db334cc387da900df36e8"
+metafile = true
+
+[[files]]
+file = "mods/indium.toml"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "1fc81c2fb496ad395c8d81c55b292f2131548d6654fc1201f79d61e1564052cd"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "01f54d293d1008f22f8cfc9a43b4c8e5473d882c2ed7ca667cbcf55ae4d638bc"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "afbdcf181e831498c15effc0562bd6bfd80da19323ea0202af3768dfc0ee2aa4"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.toml"
+hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "f9c509d284f27cfcd06c3c7473872950eba42c539f1a516a936641419e914775"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.toml"
+hash = "f1b7fb57203e856aa6a6a773e79f1e83d0aa917eb18acce60616f09c1665a90a"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "8b05f442669d8aa23b5560fe5bea292df1d22ef5bdce365db16188b4574aec9e"
+metafile = true
+
+[[files]]
+file = "mods/semitranslucency.toml"
+hash = "ee0352f3fb73453dac15884bd3a82575445f561d3a297f9a7bd8969cea90d1dc"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.toml"
+hash = "fbd95b648d509e8e1c81870bbc39ad68a15cf3b9c2b7821ec4bf4d554f163cfd"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.toml"
+hash = "cbfd2f0c65a616c3f7093f66a22b178f3be81bff333d8b6a9849f5fc5ef79ad7"
+metafile = true
