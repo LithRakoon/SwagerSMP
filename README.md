@@ -1,7 +1,8 @@
 # SwagerSMP
 modpack for me and my friends
 
-Direct download link: [here](https://leathium.github.io/SwagerSMP/Modpack/SwagerSMP.zip)
+1.17.1:[download](https://github.com/LithRakoon/SwagerSMP/raw/main/Modpack/SwagerSMP%201.17.1.zip)
+1.18.1:
 
 this modpack is making use of packwiz
 https://github.com/comp500/packwiz
