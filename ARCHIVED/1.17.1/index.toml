@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Modpack/SwagerSMP.zip"
-hash = "c80703b836409159f9bc67824d1fc98bd288b86acde24f0148f536252b7586b3"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "10a7bfa535689e2bb5269b8abb230879c30905a774080c2d1a07baed93b38f04"
 metafile = true

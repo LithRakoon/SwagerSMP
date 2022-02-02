@@ -159,7 +159,3 @@ metafile = true
 file = "mods/sodium.toml"
 hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
 metafile = true
-
-[[files]]
-file = "packwiz"
-hash = "1a690e80dce9813481176ae5ad178d69cd2948c118b6802713f2060c444bf02c"
