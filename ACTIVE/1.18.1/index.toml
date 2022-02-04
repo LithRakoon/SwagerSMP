@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.18.jar"
-hash = "864f45045c32a05ab0809aff61fedc973a519a88cf891e1c10abc73d8f56d8ab"
+hash = "10446ff50fd5bf67d21d7f4c421dbbd502ab628e2000878e0d0c9b7405af7691"
 
 [[files]]
 file = "mods/bobby.toml"
