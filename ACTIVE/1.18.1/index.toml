@@ -115,6 +115,10 @@ hash = "667191c6c61deaf4a200518f2fb14dc90923ae64faadc1365ff432b0a36764d9"
 metafile = true
 
 [[files]]
+file = "mods/lambdamap-0.1.0+1.18.jar"
+hash = "3722921e2401fd32cffdfa74be5a381d389271770b60c3111693041af94ddb02"
+
+[[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "47458ce2df66d83b675111daa48e7721ecfb30284a595235f1cce1cabcae638e"
 metafile = true
