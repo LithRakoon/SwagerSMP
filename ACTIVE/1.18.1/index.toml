@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "95ededcb5f4b95bd68c42d4c43b7b051e29238d6b3bb6d8b4a92a4341135a1de"
+hash = "0f0473f7f6b422caf115fc5a8168f607a68c233612d216a65d049461e45369e8"
 metafile = true
 
 [[files]]
@@ -81,7 +81,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "6c4c39000e6ef4c4996244f26ad34217dd7e4f69f76ae2086f3818de640d885a"
+hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
+metafile = true
+
+[[files]]
+file = "mods/flycommandmod-fabric.toml"
+hash = "60343d38b8d8ae96bb4f72426a1a2132150a9cd3b3cbee4847bee24ccbf0bbd3"
 metafile = true
 
 [[files]]
@@ -155,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1e3965e82f0f22a9f50c263a806415d1182371a708432d841287c485acf7af13"
+hash = "5e426b900ceb587441d2f5135aaaf433761b376d476e8c75ab497fc77328b3ee"
 metafile = true
 
 [[files]]
