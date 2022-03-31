@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a5e5436e4a34733f283955c731398a4fd6bf151bd6bbdd377511d69b33065a9e"
+hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
 metafile = true
 
 [[files]]
@@ -77,11 +77,6 @@ metafile = true
 [[files]]
 file = "mods/flycommandmod-fabric.toml"
 hash = "7552d6b6f99a280e789663d215c82caa92784617d08eed997106be45d89ec7fe"
-metafile = true
-
-[[files]]
-file = "mods/illuminations.toml"
-hash = "d4beda34ea4d7c3544510d2615f28f193bdcc2c25253406dce157155971a4582"
 metafile = true
 
 [[files]]
