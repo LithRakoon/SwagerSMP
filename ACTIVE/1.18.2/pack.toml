@@ -1,0 +1,13 @@
+name = "SwagerSMP"
+author = "Niki"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "038533316a4ce2324e510a4ed4f669a18d8b842d258347e18942e79e4415b1be"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
