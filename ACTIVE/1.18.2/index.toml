@@ -45,13 +45,28 @@ hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
+file = "mods/decorative-blocks.toml"
+hash = "d0319c8f0ecb27bf8830de7625794e14ee5cde25e5a9034c7229026be22e1f09"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e0fd37bb7640f1cc9fff14de883f06dce2f8f88d89a4a0524746dbdc04f77f8d"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation-fabric.toml"
+hash = "60f569e3fad9326f389d593a0450110aa780dcc80b05bb432a0a50b5945b2bfa"
+metafile = true
+
+[[files]]
 file = "mods/ebe.toml"
 hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+metafile = true
+
+[[files]]
+file = "mods/editsign.toml"
+hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
@@ -124,6 +139,11 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-and-walls.toml"
+hash = "fb0355fb00eefda5db27e768e4c770efc0a7a7c5848fa1e3cf9229fdd80f6b6f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
 metafile = true
@@ -156,6 +176,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.toml"
+hash = "a2545ca26dcfa338761c72d2cafc001c1b27f27829cbef1e63bf16649e9a4f2d"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "af45970ec75dccbb9b6a5f553e7aecbe5ab8c7f06e65abaffa679603c9af6240"
 metafile = true
 
 [[files]]
