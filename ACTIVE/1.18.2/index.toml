@@ -139,11 +139,6 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-and-walls.toml"
-hash = "fb0355fb00eefda5db27e768e4c770efc0a7a7c5848fa1e3cf9229fdd80f6b6f"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
 metafile = true
@@ -186,9 +181,4 @@ metafile = true
 [[files]]
 file = "mods/trinkets-fabric.toml"
 hash = "af45970ec75dccbb9b6a5f553e7aecbe5ab8c7f06e65abaffa679603c9af6240"
-metafile = true
-
-[[files]]
-file = "mods/veggieway-fabric.toml"
-hash = "7d0bb57a073f60e2aa6e746b574ab3593f5d35bfd8f7d829389b3b06eba0aa3f"
 metafile = true
