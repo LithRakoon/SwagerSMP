@@ -164,6 +164,11 @@ hash = "8aa67b7d71db2e344dcae8427aa8742459e893705774e1941bed7fff04a8d892"
 metafile = true
 
 [[files]]
+file = "mods/sit-fabric.toml"
+hash = "cf1613ea3e2f62a417e5661398ff4e8af05034759681f1e5bd16578002a6a92f"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.toml"
 hash = "a2f831b8caa028968fbb309d1824ad420acbcd89e3640ec9711b4e3dc6dfcec2"
 metafile = true
