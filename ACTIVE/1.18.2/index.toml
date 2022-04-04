@@ -45,11 +45,6 @@ hash = "2c60cef285ee93b3188da4592b0067cb9d5dcd5ca8d1a9e70c0f2e25455ab7e1"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks.toml"
-hash = "d0319c8f0ecb27bf8830de7625794e14ee5cde25e5a9034c7229026be22e1f09"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.toml"
 hash = "e0fd37bb7640f1cc9fff14de883f06dce2f8f88d89a4a0524746dbdc04f77f8d"
 metafile = true
@@ -76,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "7f4996fc7ac9367f157cbd94ac9b4601225279d457df78f66941a157e8592eb0"
+hash = "2c283319aebf853500c3057142e54ce91ae50170a161de46489a266f57f46f63"
 metafile = true
 
 [[files]]
@@ -136,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-and-walls.toml"
+hash = "fb0355fb00eefda5db27e768e4c770efc0a7a7c5848fa1e3cf9229fdd80f6b6f"
 metafile = true
 
 [[files]]
