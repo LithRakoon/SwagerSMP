@@ -15,6 +15,11 @@ file = "mods/aurorasdecorations-1.0.0+1.18.jar"
 hash = "9ffdbf817d241f8f4f7b04e7f82acd686f00a43a25d58ce9c91afdbf5a9e2e4e"
 
 [[files]]
+file = "mods/bee-better.toml"
+hash = "b91226a5fe26ac5b6608da5b8c22dc2d6dc7e1ab4f76ab544f9223d711544746"
+metafile = true
+
+[[files]]
 file = "mods/bobby.toml"
 hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
 metafile = true
@@ -65,6 +70,11 @@ hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trinket-fabric.toml"
+hash = "d39d67a2cc547bcd089e7409a5847cb3ca8ff10eb8b7f8896edc23e9eeb785c5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
 metafile = true
@@ -96,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+hash = "320a310f7f3c4f125f5e6d6aed315cb379b2feb382dc8365ea08ae1f244cced8"
 metafile = true
 
 [[files]]
@@ -131,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
-metafile = true
-
-[[files]]
-file = "mods/macaws-fences-and-walls.toml"
-hash = "fb0355fb00eefda5db27e768e4c770efc0a7a7c5848fa1e3cf9229fdd80f6b6f"
 metafile = true
 
 [[files]]
