@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
+hash = "f7b6fff3b0f2260f4bb3c6971a3c15e48ec2fcd449658a3c44b8a011580e230c"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.toml"
-hash = "60f569e3fad9326f389d593a0450110aa780dcc80b05bb432a0a50b5945b2bfa"
+hash = "cde03a9344c356ac5f2d92e017d90dfbf43b0f73487ef4ddf5af9b7f2b09f158"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e1d62926446ab5519d262d741f9f2f125488bc2048f38aced8d3e1ebec55fe1e"
+hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
 metafile = true
 
 [[files]]
@@ -145,12 +145,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "6c8ae85a44ad6fbb5ad412073d3a32591e678fb70fb74d1aea525e9fdc15bcc7"
+hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "a3d1f1466c33a24a555fc1e1003d2d904762eef4b3ddef48f7d0312eda03fdb8"
+hash = "7bb446109174fb831ced527d41df13962b1c46677f7001557b7211e54e5d3e34"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "a2f831b8caa028968fbb309d1824ad420acbcd89e3640ec9711b4e3dc6dfcec2"
+hash = "211beaf63d3e68db103fd36807c17df58755141e786d7240a968a6c8b796ebca"
 metafile = true
 
 [[files]]
