@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "881b5a462da325f7d506150314c57b4ab2a1cfb9357de86ea102b1fab32f9c41"
+hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b9598f1fae8ca026d737768ef3812f157c568ba86f2f780704ddb995fdec3502"
+hash = "fd6b05c2a3731c93d5dccf2c073135f2f12008f7a77325b49b79522a98fa52c3"
 metafile = true
 
 [[files]]
