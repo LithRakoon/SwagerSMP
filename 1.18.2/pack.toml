@@ -1,13 +1,13 @@
 name = "SwagerSMP"
-author = "Niki"
+author = "Lith"
 version = "1.0.0"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e644f30113aa698c16b903150610c7ec21602e7c14148dfbef226fc46b247025"
+hash = "79b12a62170a8d0785cd0b406af4fa0b5c59e04f2c92adf34d0390c6da12fa96"
 
 [versions]
-fabric = "0.13.3"
 minecraft = "1.18.2"
+quilt = "0.16.1-beta.3"
