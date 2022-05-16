@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "flycommandmod-fabric.toml"
-hash = "7552d6b6f99a280e789663d215c82caa92784617d08eed997106be45d89ec7fe"
-
-[[files]]
 file = "mods/3dskinlayers.toml"
 hash = "da460d4ca6d9ec0f5a69e52dc7059398ae8f8707c105b672b05be3568dbe73f9"
 metafile = true
@@ -96,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/flycommandmod-fabric.toml"
+hash = "7552d6b6f99a280e789663d215c82caa92784617d08eed997106be45d89ec7fe"
 metafile = true
 
 [[files]]
