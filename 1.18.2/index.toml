@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "f886015ee31c498810c4195f16f1d4d86988314e5b9c823e478483f37d000744"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "e2ad5d488d2a16213480f1b8ce510c5c2e5583d348925726aab60c01dd55b5ec"
 metafile = true
 
 [[files]]
@@ -186,4 +186,9 @@ metafile = true
 [[files]]
 file = "mods/trinkets.toml"
 hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
+metafile = true
+
+[[files]]
+file = "mods/veggieway-fabric.toml"
+hash = "df92369343154121c27dddfded973e39acb694258d78600149d3f3669439a2f0"
 metafile = true
