@@ -20,5 +20,11 @@ mode = "fancy"
 		[light_sources.settings.entities]
 
 			[light_sources.settings.entities.minecraft]
+				axolotl = true
+				bee = true
+				area_effect_cloud = true
+				bat = true
+				arrow = true
+				armor_stand = true
 				glow_item_frame = false
 

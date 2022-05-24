@@ -26,7 +26,7 @@ hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
 
 [[files]]
 file = "config/craftpresence.properties"
-hash = "1a76ab8bf7be103a4424786f1abf03104b715e3e131a17c5816736e12386bd1f"
+hash = "de33030921f30c65a2e91ffa94385baa572020047c9261a327565d7c5243a01c"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -42,7 +42,7 @@ hash = "837c951792566cd5d54e4d42d7287af8e880c83b86fc6fa8ba5013b7fe73b71c"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "65575d1c7d08644bbce536d9932b8deaa658f7b98b712f495e24d9601dee0583"
+hash = "b432fda9ea4cc21c7cf094f5515694a395fbece44f873646c043c5a53ab8287b"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -54,7 +54,7 @@ hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "5648b0e99960d4518f3866174d9976499a16af39221f7f2fb2d4c07daf979881"
+hash = "4ba3c075f603cc2d6d49040739d774019edd53d6a7745f27dfc9a5da3fe0a48a"
 
 [[files]]
 file = "config/inspecio.json"
@@ -62,7 +62,7 @@ hash = "b7e6193f25e9f5921404fd4ed3fedb0e713718359a2a998d5b279c85e037b5a3"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e323183e2c7f2e089ff7492283ebf438d1ff451b4b325f7c3e6745214d8a6956"
+hash = "3f52bff5605866e766ee91532fa07b3d6ec86bfde4a85d0a343d6c4bc952fb46"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
@@ -70,7 +70,7 @@ hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "a934cdfb7eb1bf471e19fe222a25ba601dede7aebb402056dcc4f63604da31a7"
+hash = "f8828daea5d0e3f80dd0252f655e9b7129140c25bca16bf43a06edd0888405ed"
 
 [[files]]
 file = "config/lithium.properties"
@@ -98,7 +98,7 @@ hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+hash = "bc2c4289cffd99b357e8864f2c9877b20cdc560d8cb37a73305b14feba4c7fc6"
 
 [[files]]
 file = "config/veggie_way/general.json5"
