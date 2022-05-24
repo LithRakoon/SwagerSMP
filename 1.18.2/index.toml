@@ -1,18 +1,117 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Adorn.json5"
+hash = "5ec726b93feca567bca50d79cd90b3ba159086970ff936dd4e0d00f4fdbb955e"
+
+[[files]]
+file = "config/bobby.conf"
+hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
+
+[[files]]
+file = "config/cem.conf"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "73ddb74b2b6eea8712e4e201eb2b265f1ed62722a63d640e4cf645cabf9f38bd"
+
+[[files]]
+file = "config/continuity.json"
+hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+
+[[files]]
+file = "config/craftpresence.properties"
+hash = "1a76ab8bf7be103a4424786f1abf03104b715e3e131a17c5816736e12386bd1f"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "d5f4905dbdad28bf4291c35d2132bec8ed5db70ce8c1d915b1e43882a357fae6"
+
+[[files]]
+file = "config/editsign.json"
+hash = "cdaa38de39f50b1bcdb2e0c5541cf110779122c2a25127c551a85cea8244353b"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "837c951792566cd5d54e4d42d7287af8e880c83b86fc6fa8ba5013b7fe73b71c"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "65575d1c7d08644bbce536d9932b8deaa658f7b98b712f495e24d9601dee0583"
+
+[[files]]
+file = "config/fallingleaves.json"
+hash = "e9b4e292e2fbb07ff5d71989c4c730f7e2a0e1b4f8e81f500b28f277984ffef1"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "b95fd739ebab8995117722aaac90aab6bea1aeec3a29b5170e332a69dc6408b6"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "5648b0e99960d4518f3866174d9976499a16af39221f7f2fb2d4c07daf979881"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "b7e6193f25e9f5921404fd4ed3fedb0e713718359a2a998d5b279c85e037b5a3"
+
+[[files]]
+file = "config/iris.properties"
+hash = "e323183e2c7f2e089ff7492283ebf438d1ff451b4b325f7c3e6745214d8a6956"
+
+[[files]]
+file = "config/lambdabettergrass.toml"
+hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "a934cdfb7eb1bf471e19fe222a25ba601dede7aebb402056dcc4f63604da31a7"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "22de2cf059365108a1ad38169f3840c73cec8840534cc9aff7fedd0e4f5a5622"
+
+[[files]]
+file = "config/ok_zoomer.json5"
+hash = "af53f6e7e17e752ff111d89f71cbab121095f28017b32697c044ab96e404d032"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "04bb34d9ef238f26ee0577dd9db5f7ad3da7dec9896b7130b70d53e09eacf6e8"
+
+[[files]]
+file = "config/skinlayers.json"
+hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/veggie_way/general.json5"
+hash = "3582f8840b4d0e209fde3304b2003f7654a0a76136fd6989c8110b4d4b9abe87"
+
+[[files]]
 file = "mods/3dskinlayers.toml"
-hash = "da460d4ca6d9ec0f5a69e52dc7059398ae8f8707c105b672b05be3568dbe73f9"
+hash = "434106483a098d1b87534284ba115b885709adb0354fd8a011fa7a5c3311f26e"
 metafile = true
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "cddfd55242436c0e571f7f3620d997a800d65e8aa17e6a8e866b48e03019d0de"
-metafile = true
-
-[[files]]
-file = "mods/architectury-fabric.toml"
-hash = "f886015ee31c498810c4195f16f1d4d86988314e5b9c823e478483f37d000744"
+hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
 metafile = true
 
 [[files]]
@@ -140,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
@@ -169,13 +268,8 @@ hash = "cd4b936dd60465bd7ab3f739a233bcf770d0a7d0bc7b3ef96292b6bf9348ad3d"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "e2ad5d488d2a16213480f1b8ce510c5c2e5583d348925726aab60c01dd55b5ec"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
+file = "mods/sodium.pw.toml"
+hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
 metafile = true
 
 [[files]]
@@ -189,6 +283,6 @@ hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
 
 [[files]]
-file = "mods/veggieway-fabric.toml"
-hash = "df92369343154121c27dddfded973e39acb694258d78600149d3f3669439a2f0"
+file = "mods/veggieway-fabric.pw.toml"
+hash = "41234d71af48e923e1c2e9c10e340427afe7803cfd3bea1fb5ca0affaececc70"
 metafile = true

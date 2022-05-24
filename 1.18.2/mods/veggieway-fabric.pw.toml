@@ -3,9 +3,9 @@ filename = "TheVeggieWay_Fabric-1.18.2-1.2.32.jar"
 side = "both"
 
 [download]
-url = ""
 hash-format = "sha1"
 hash = "ed7df0d6a434fca34dbdfff0ea98c106197e939b"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
