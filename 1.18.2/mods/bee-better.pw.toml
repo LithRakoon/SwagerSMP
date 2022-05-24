@@ -3,9 +3,9 @@ filename = "beebetter-1.9.0-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3726/160/beebetter-1.9.0-1.18.2.jar"
 hash-format = "sha1"
 hash = "54d57e70067c1b401f47c83da61fbc86bac86d23"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]

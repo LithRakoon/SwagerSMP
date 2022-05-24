@@ -6,6 +6,7 @@ side = "both"
 url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar"
 hash-format = "sha1"
 hash = "9b826d21b9cd999853a57c76b0c47ee4d9161dc9"
+mode = ""
 
 [update]
 [update.modrinth]
