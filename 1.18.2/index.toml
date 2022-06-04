@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.18.jar"
-hash = "9a31ba4514c14c808c4bb0ea4bd902a6afb409be648e24d84e678f62ab66e8ec"
+hash = "02e9d6fd770887fac9b62dc3038bd209a78e073a7e23779f90296d47c0ccdb28"
 
 [[files]]
 file = "mods/bee-better.pw.toml"
@@ -169,8 +169,8 @@ hash = "09a23d22d146a039769ed8d67f52de31f25648d952aca0ccab8775aa02a4b1f2"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation-fabric.pw.toml"
-hash = "29972d6a7a844c37e018d18381299315f03a27c64f9c9d9da5439d3ce478063c"
+file = "mods/eating-animation.pw.toml"
+hash = "912b8917b50e0afc507b2735d0cbd1b8bad4f9e86be15c3f83ccbb45baf7e68a"
 metafile = true
 
 [[files]]
