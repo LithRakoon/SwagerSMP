@@ -106,12 +106,17 @@ hash = "3582f8840b4d0e209fde3304b2003f7654a0a76136fd6989c8110b4d4b9abe87"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "434106483a098d1b87534284ba115b885709adb0354fd8a011fa7a5c3311f26e"
+hash = "5507e7336ae10ac5eede884e5d0eb6ad24f5823c6792147addd1a8f57a9e179e"
 metafile = true
 
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "bb7f8392516aa6d020b1d22898df081e35d9c3f36f78ccf5f93a8f839dd88037"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -129,6 +134,11 @@ hash = "f0c17fb8a7cd21a1be3112ccc10f9dde232b6f09beba5534cf37a6472ad1b3df"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "8086f62e390321e37c926d526bbbb5c2f603a17c2c3f54b752ec46fd071861d6"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "4005e222e444336878c881022ca37c346ba194c726acd7e6f258a029566d1f4c"
 metafile = true
@@ -136,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "da0c8ca6755f0e2e420d88bdbd23d1c1e132394f387d3c48851963a3221b9475"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "7a3560c83727e3fac4807c6b2cac054569966dd1f09c5883e1ef78988568b45e"
 metafile = true
 
 [[files]]
@@ -155,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation-fabric.pw.toml"
-hash = "ef2b142289a4efd8716652ed29c62b7ead1191c7033a00fcd00a1057c7d0e4fa"
+hash = "29972d6a7a844c37e018d18381299315f03a27c64f9c9d9da5439d3ce478063c"
 metafile = true
 
 [[files]]
@@ -254,7 +269,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "634f149e6233a59ceb725e796300c81ac8f19d281c49dd778fdd9b591cd79d5d"
+hash = "d29f3453270997e009cf7dc946594053b717c2eb6981d7a2515ab287751564d7"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
 metafile = true
 
 [[files]]
